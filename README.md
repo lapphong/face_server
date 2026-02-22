@@ -25,7 +25,3 @@ pip install -r requirements.txt
 pip install tf-keras
 python3 server.py
 ```
-
-## MIT License
-
-### Copyright (c) 2025 @buzzlp
